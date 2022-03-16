@@ -1,9 +1,9 @@
 # Install
 ```
 $ pkg update && pkg upgrade
-$ pkg install bs4
-$ pkg install requests
-$ pkg install mechanize
+$ pip install bs4
+$ pip install requests
+$ pip install mechanize
 $ pkg install python
 $ pkg install git
 ```
